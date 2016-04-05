@@ -14,7 +14,6 @@ Configure conf files as you need:
 Only if you want to use carbon-link clusters or ldap you should edit:
 templates/opt/graphite/webapp/graphite/local_settings.py.erb
 
-
 ### Modules needed:
 
 stdlib by puppetlabs
