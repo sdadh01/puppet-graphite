@@ -1,3 +1,4 @@
+
 # Module graphite
 
 This module installs and makes basic configs for graphite, with carbon and whisper.
